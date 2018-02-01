@@ -1,0 +1,16 @@
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\bin\Debug\StudentInformationZone.exe
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\bin\Debug\StudentInformationZone.pdb
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.DisplayCoursevise.resources
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.DisplayYearWise.resources
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.HomePage.resources
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.Studentinformation.resources
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.exe
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.pdb
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\bin\Debug\Database1.mdf
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\bin\Debug\Database1_log.ldf
+c:\users\anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\bin\Debug\StudentInformationZone.exe.config
+C:\Users\Anil\documents\visual studio 2010\Projects\StudentInformationZone\StudentInformationZone\obj\x86\Debug\StudentInformationZone.CourseDetails.resources
